@@ -1,3 +1,7 @@
+#
+# The ngix server based on Clear Linunx container OS.
+#
+
 FROM clearlinux
 MAINTAINER ken.lu@intel.com
 
